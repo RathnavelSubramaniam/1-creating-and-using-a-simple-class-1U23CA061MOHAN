@@ -20,6 +20,6 @@ public class Person{
 
         double sum = ob1.Age + ob2.Age;
         double average = sum/2;
-        System.out.println("Average Age :"+average);
+        System.out.println("Average Age:"+average);
     }
 }
